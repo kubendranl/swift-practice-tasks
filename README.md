@@ -1,1 +1,1 @@
-# wipro-ios
+# swift-practice-tasks
